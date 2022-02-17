@@ -1,0 +1,40 @@
+table, th, td, tr {
+    border-collapse: collapse;
+    border: 1px solid ;
+}
+tr, td, th{
+    height: 50px;
+    min-height: fit-content;
+    width: 150px;
+    min-width: fit-content;
+    color: aliceblue;
+}
+td{
+    vertical-align: middle;
+    text-align: center;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+h1{
+  color: crimson;
+  margin-bottom: 50px;
+}
+*{
+    text-align: center;
+    background-color: rgb(83, 83, 83);
+}
+hr{
+    margin-top: 50px;
+}
+.flag{
+    max-width: 25px;
+}
+img{
+    max-width: 500px;
+}
+.medaile{
+    max-width: 20px;
+}
